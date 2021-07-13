@@ -1,0 +1,14 @@
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\bin\Debug\Resources\Spells5E.txt
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\bin\Debug\DirtyDand.exe.config
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\bin\Debug\DirtyDand.exe
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\bin\Debug\DirtyDand.pdb
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\obj\Debug\DirtyDand.CharacterForm.resources
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\obj\Debug\DirtyDand.MainForm.resources
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\obj\Debug\DirtyDand.Properties.Resources.resources
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\obj\Debug\DirtyDand.SpellForm.resources
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\obj\Debug\DirtyDand.SpellSearchForm.resources
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\obj\Debug\DirtyDand.csproj.GenerateResource.cache
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\obj\Debug\DirtyDand.csproj.CoreCompileInputs.cache
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\obj\Debug\DirtyDand.exe
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\obj\Debug\DirtyDand.pdb
+C:\Users\The Beast\Desktop\EVERYTHING\Programming\Visual Studio\DirtyDand\DirtyDand\obj\Debug\DirtyDand.csprojAssemblyReference.cache
